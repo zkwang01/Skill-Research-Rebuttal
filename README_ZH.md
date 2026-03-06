@@ -177,7 +177,7 @@ skill-rebuttal/
 │       │   ├── drawio-template.md         # draw.io XML 模板规范
 │       │   └── rebuttal-guide.md          # Rebuttal 写作策略指南
 │       └── assets/
-│           └── Rebuttal整理模板.drawio     # 原始 draw.io 模板
+│           └── rebuttal-template.drawio    # 原始 draw.io 模板
 └── docs/
     └── rebuttal-methodology.md            # 方法论源文档
 ```

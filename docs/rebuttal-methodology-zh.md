@@ -6,7 +6,7 @@
 
 使用 draw.io 模板整理 review 内容（**推荐**，更有全局观，更方便阅读）：
 
-[Rebuttal 整理模板 (draw.io)](../skills/rebuttal/assets/Rebuttal整理模板.drawio)
+[Rebuttal 整理模板 (draw.io)](../skills/rebuttal/assets/rebuttal-template.drawio)
 
 > **核心问题：为什么 reviewer 给出当前这个分数？**
 

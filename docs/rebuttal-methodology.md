@@ -6,7 +6,7 @@
 
 Use the draw.io template to organize review content (recommended — provides a global overview and is easier to read):
 
-[Rebuttal Template (draw.io)](../skills/rebuttal/assets/Rebuttal整理模板.drawio)
+[Rebuttal Template (draw.io)](../skills/rebuttal/assets/rebuttal-template.drawio)
 
 > **Key question to answer: Why did the reviewer give this score?**
 
