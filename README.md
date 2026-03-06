@@ -33,12 +33,12 @@ Restart your Claude Code session. The skill will be available automatically.
 
 ### Install the draw.io Skill (Optional but Recommended)
 
-The rebuttal skill generates `.drawio` files. For better diagram quality, install the [draw-io skill](https://github.com/ekusiadadus/draw-mcp) as well:
+The rebuttal skill generates `.drawio` files. For better diagram quality, install the [draw-io skill](https://github.com/softaworks/agent-toolkit/tree/main/skills/draw-io) as well:
 
 ```bash
-git clone https://github.com/ekusiadadus/draw-mcp.git /tmp/draw-mcp
-cp -r /tmp/draw-mcp/skills/draw-io ~/.claude/skills/draw-io
-rm -rf /tmp/draw-mcp
+git clone --depth 1 https://github.com/softaworks/agent-toolkit.git /tmp/agent-toolkit
+cp -r /tmp/agent-toolkit/skills/draw-io ~/.claude/skills/draw-io
+rm -rf /tmp/agent-toolkit
 ```
 
 ### View draw.io Files in Your IDE

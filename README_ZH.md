@@ -33,12 +33,12 @@ cp -r skills/rebuttal .claude/skills/rebuttal
 
 ### 安装 draw.io Skill（可选，推荐）
 
-Rebuttal skill 会生成 `.drawio` 文件。为了更好的图表质量，建议同时安装 [draw-io skill](https://github.com/ekusiadadus/draw-mcp)：
+Rebuttal skill 会生成 `.drawio` 文件。为了更好的图表质量，建议同时安装 [draw-io skill](https://github.com/softaworks/agent-toolkit/tree/main/skills/draw-io)：
 
 ```bash
-git clone https://github.com/ekusiadadus/draw-mcp.git /tmp/draw-mcp
-cp -r /tmp/draw-mcp/skills/draw-io ~/.claude/skills/draw-io
-rm -rf /tmp/draw-mcp
+git clone --depth 1 https://github.com/softaworks/agent-toolkit.git /tmp/agent-toolkit
+cp -r /tmp/agent-toolkit/skills/draw-io ~/.claude/skills/draw-io
+rm -rf /tmp/agent-toolkit
 ```
 
 ### 在 IDE 中查看 draw.io 文件
